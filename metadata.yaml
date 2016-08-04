@@ -1,0 +1,35 @@
+_repo: Clotelle--or-the-Colored-Heroine-a-tale-of-the-Southern-States--or-the-President-s-Daughter_241
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, William Wells
+    aliases:
+    - Brown, W. Wells (William Wells)
+    - Brown, Wm. Wells (William Wells)
+    deathdate: 1884
+    gutenberg_agent_id: '135'
+    url: http://www.gutenberg.org/2009/agents/135
+    wikipedia: http://en.wikipedia.org/wiki/William_Wells_Brown
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Jefferson, Thomas, 1743-1826 -- Relations with women -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Children of presidents -- Fiction'
+- !lcsh 'African American women -- Fiction'
+- !lcsh 'Women slaves -- Fiction'
+- !lcsh 'African American families -- Fiction'
+- GITenberg
+title: Clotelle; Or, The Colored Heroine, a tale of the Southern States; Or, The President's
+  Daughter
+url: http://www.gutenberg.org/ebooks/241
