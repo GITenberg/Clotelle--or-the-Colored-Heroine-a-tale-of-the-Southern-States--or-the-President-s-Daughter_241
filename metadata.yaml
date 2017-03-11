@@ -1,5 +1,8 @@
 _repo: Clotelle--or-the-Colored-Heroine-a-tale-of-the-Southern-States--or-the-President-s-Daughter_241
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brown, William Wells
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/135
     wikipedia: http://en.wikipedia.org/wiki/William_Wells_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/241#Clotelle--or-the-Colored-Heroine-a-tale-of-the-Southern-States--or-the-President-s-Daughter
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2008-07-02'
 gutenberg_type: Text
